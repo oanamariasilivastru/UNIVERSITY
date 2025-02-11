@@ -1,0 +1,29 @@
+_wandb:
+    value:
+        cli_version: 0.18.5
+        m: []
+        python_version: 3.12.0
+        t:
+            "1":
+                - 55
+            "2":
+                - 55
+            "3":
+                - 2
+                - 16
+                - 23
+                - 55
+            "4": 3.12.0
+            "5": 0.18.5
+            "8":
+                - 3
+                - 5
+            "12": 0.18.5
+            "13": windows-amd64
+model:
+    value:
+        name: LinearRegressor
+        parameters:
+            fit_intercept: true
+            n_jobs: 5
+        user: maria
